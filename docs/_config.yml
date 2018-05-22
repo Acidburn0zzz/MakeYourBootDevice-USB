@@ -9,7 +9,7 @@ repository: aguslr/multibootusb
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 exclude:
   - Gemfile
   - Gemfile.lock
